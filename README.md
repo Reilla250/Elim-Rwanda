@@ -1,6 +1,6 @@
 # Website Under Maintenance
 
-A responsive maintenance page inspired by a construction notice. It uses plain HTML, CSS, and an inline illustration, with no build step.
+A responsive maintenance page inspired by a construction notice. It uses plain HTML and CSS, with no build step. The construction artwork is stored locally as `construction-background.avif`.
 
 ## Customize
 
