@@ -20,7 +20,7 @@ body { min-height: 100vh; }
   padding: 24px;
 }
 
-.maintenance-image {
+.maintenance-art {
   display: block;
   width: min(100%, 900px);
   max-height: calc(100vh - 100px);
@@ -37,5 +37,5 @@ body { min-height: 100vh; }
 
 @media (max-width: 480px) {
   .maintenance { padding: 16px; }
-  .maintenance-image { max-height: calc(100vh - 90px); }
+  .maintenance-art { max-height: calc(100vh - 90px); }
 }
